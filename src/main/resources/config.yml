@@ -1,0 +1,23 @@
+enabled: true
+
+# 是否只在击杀敌对生物时发钱（true=只敌对生物，false=所有生物）
+hostile-only: true
+
+default-money: 10.0
+
+use-random: true
+random-range:
+  min: 5.0
+  max: 20.0
+
+message:
+  enabled: true
+  format: "&a击杀 &e%mob% &a获得 &6%money% &a金币"
+
+mobs:
+  ZOMBIE: 8.0
+  SKELETON: 10.0
+  CREEPER: 15.0
+  ENDERMAN: 25.0
+
+decimal-format: "#.##"

@@ -1,0 +1,10 @@
+name: MobMoneyLite
+description: $description
+version: '${version}'
+
+main: cn.brocraft.mobMoneyLite.MobMoneyLite
+api-version: '1.21.8'
+load: POSTWORLD
+
+authors: [ TIQS ]
+website: Distance.icu
