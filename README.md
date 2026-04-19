@@ -13,7 +13,7 @@ Lightweight Paper plugin that rewards players with Vault economy money when they
 ## Requirements
 
 - Java 21
-- Paper 1.21.8
+- Paper 1.21+
 - Vault
 - A Vault-compatible economy plugin (for example EssentialsX Economy)
 
